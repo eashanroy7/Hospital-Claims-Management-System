@@ -2,14 +2,6 @@
   <img height="300em" src="https://user-images.githubusercontent.com/100642061/194758661-5d39710c-b7a7-4b97-8f64-fd8bebfefceb.gif">
 </div>
 
-<div align="center">
-  <img height='20' src='https://img.shields.io/github/stars/gabrielcordeiro2/Hospital-query-system.svg' />
-  <img height='20' src='https://img.shields.io/badge/License-MIT-red.svg' />
-  <img height='20' src='https://img.shields.io/github/forks/gabrielcordeiro2/Hospital-query-system.svg' />
-
-  [<img height='25' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='linkedin'>](https://www.linkedin.com/in/gabrielcdev/)
-  [<img height='25' src='https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=#615352' alt='instagram'>](https://www.instagram.com/krd.gabriel/)
-
 I made a Hospital query system, which manages general tasks that occur in daily work of a front desk attendant.
 
   <img src="https://user-images.githubusercontent.com/100642061/194762368-dee83608-0a76-4dae-86c2-d0d0e70174e9.png" height="100px" width="720px" />
