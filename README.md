@@ -21,16 +21,12 @@ I wanted to challenge myself to do a different type of portfolio project, as I l
 
 ## Requirements to run:
 
-**(Optional)** If you want to run this project using **Docker**, click [here](https://github.com/gabrielcordeiro2/Hospital-query-system/blob/main/UsingDocker.MD).
-
-**(Optional)** If you want to run this project using **Kubernetes**, click [here](https://github.com/gabrielcordeiro2/Hospital-query-system/blob/main/UsingKubernetes.md).
-
 You will need to install all dependencies below to run:
 
 ### for Python:
 
 1.  Python 3.8.10+
-2. `git clone https://github.com/gabrielcordeiro2/Hospital-query-system`
+2. `git clone https://github.com/eashanroy7/Hospital-Claims-Management-System.git`
 3. `pip3 install -r requirements.txt`
 
 ### for Database:
@@ -67,9 +63,4 @@ You will need to install all dependencies below to run:
 | ER Database diagram |
 |:--:|
 |![space-1.jpg](https://user-images.githubusercontent.com/100642061/194748406-81511f29-45a6-4654-af31-9c6cc565457d.png)|
-I made this diagram using [LucidApp](https://lucid.app/documents#/dashboard).
-
-| Kubernetes cluster diagram |
-|:--:|
-|![kubernetes-1.jpg](https://github.com/gabrielcordeiro2/Hospital-query-system/assets/100642061/2b9f8a31-111a-4727-b6ba-a49b5e959900)|
 I made this diagram using [LucidApp](https://lucid.app/documents#/dashboard).
